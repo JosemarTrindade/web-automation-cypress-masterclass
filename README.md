@@ -301,16 +301,12 @@ $ npx cypress run
 
 ### 🚀 **Melhorias Planejadas**
 - [ ] Implementar Page Object Model
-- [ ] Adicionar testes de API
 - [ ] Integração com CI/CD (GitHub Actions)
 - [ ] Relatórios HTML personalizados
-- [ ] Testes de performance
-- [ ] Cobertura de acessibilidade
 
 ### 📚 **Aprendizados Contínuos**
 - [ ] Cypress Component Testing
-- [ ] Visual Testing com Percy
-- [ ] Testes de carga com Artillery
+- [ ] Testes de carga com JMeter
 - [ ] Docker para testes
 
 ---
@@ -321,10 +317,9 @@ $ npx cypress run
 
 **Desenvolvido com 💜 para demonstrar habilidades em Quality Assurance**
 
-📧 **Email**: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
-🔗 **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seu-perfil)  
-💼 **Portfolio**: [Seu Portfolio](https://seu-portfolio.com)  
-🐱 **GitHub**: [Seu GitHub](https://github.com/seu-usuario)
+📧 **Email**: [seu.email@exemplo.com](josemar.s.trindade@gmal.com)  
+🔗 **LinkedIn**: [Seu Perfil](www.linkedin.com/in/josemar-trindade-452979a9)  
+🐱 **GitHub**: [Seu GitHub](https://github.com/JosemarTrindade)
 
 ---
 
