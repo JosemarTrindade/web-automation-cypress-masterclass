@@ -23,6 +23,7 @@
 > **🎓 Projeto Acadêmico & Portfólio**: Este repositório demonstra habilidades em automação de testes web utilizando **Cypress**, desenvolvido durante o curso da **QaZando Masterclass**. Inclui cenários reais de teste para funcionalidades como login, cadastro, checkout e validações de interface.
 
 Este projeto showcases a implementação de testes automatizados end-to-end para aplicações web, utilizando **Cypress** como framework principal e **Faker.js** para geração de dados dinâmicos.
+Este projeto showcases a implementação de testes automatizados end-to-end para aplicações web, utilizando **Cypress** como framework principal, **Faker.js** para geração de dados dinâmicos e **Page Object Model** para organização dos testes. Também inclui comandos customizados para facilitar a manutenção e reutilização de fluxos.
 
 ### 🎯 Objetivos Demonstrados
 
@@ -317,9 +318,9 @@ $ npx cypress run
 
 **Desenvolvido com 💜 para demonstrar habilidades em Quality Assurance**
 
-📧 **Email**: [seu.email@exemplo.com](josemar.s.trindade@gmal.com)  
-🔗 **LinkedIn**: [Seu Perfil](www.linkedin.com/in/josemar-trindade-452979a9)  
-🐱 **GitHub**: [Seu GitHub](https://github.com/JosemarTrindade)
+📧 **Email**: [josemar.s.trindade@gmal.com](josemar.s.trindade@gmal.com)  
+🔗 **LinkedIn**: [Josemar Trindade](www.linkedin.com/in/josemar-trindade-452979a9)  
+🐱 **GitHub**: [JosemarTrindade](https://github.com/JosemarTrindade)
 
 ---
 
