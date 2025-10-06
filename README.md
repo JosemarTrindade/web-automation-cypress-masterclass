@@ -318,9 +318,9 @@ $ npx cypress run
 
 **Desenvolvido com 💜 para demonstrar habilidades em Quality Assurance**
 
-📧 **Email**: [seu.email@exemplo.com](josemar.s.trindade@gmal.com)  
-🔗 **LinkedIn**: [Seu Perfil](www.linkedin.com/in/josemar-trindade-452979a9)  
-🐱 **GitHub**: [Seu GitHub](https://github.com/JosemarTrindade)
+📧 **Email**: [josemar.s.trindade@gmal.com](josemar.s.trindade@gmal.com)  
+🔗 **LinkedIn**: [Josemar Trindade](www.linkedin.com/in/josemar-trindade-452979a9)  
+🐱 **GitHub**: [JosemarTrindade](https://github.com/JosemarTrindade)
 
 ---
 
