@@ -12,7 +12,7 @@
 *Automação de Testes End-to-End com Cypress para aplicações Web*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 
 </div>
 
@@ -301,7 +301,6 @@ $ npx cypress run
 ## 🔮 Próximos Passos
 
 ### 🚀 **Melhorias Planejadas**
-- [ ] Implementar Page Object Model
 - [ ] Integração com CI/CD (GitHub Actions)
 - [ ] Relatórios HTML personalizados
 
@@ -319,7 +318,7 @@ $ npx cypress run
 **Desenvolvido com 💜 para demonstrar habilidades em Quality Assurance**
 
 📧 **Email**: [josemar.s.trindade@gmail.com](mailto:josemar.s.trindade@gmail.com)  
-🔗 **LinkedIn**: [Josemar Trindade](https:www.linkedin.com/in/josemar-trindade-452979a9)  
+🔗 **LinkedIn**: [JosemarTrindade](https://www.linkedin.com/in/josemar-trindade-452979a9)
 🐱 **GitHub**: [JosemarTrindade](https://github.com/JosemarTrindade)
 
 ---
