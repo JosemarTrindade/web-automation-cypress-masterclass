@@ -318,8 +318,8 @@ $ npx cypress run
 
 **Desenvolvido com 💜 para demonstrar habilidades em Quality Assurance**
 
-📧 **Email**: [josemar.s.trindade@gmal.com](josemar.s.trindade@gmal.com)  
-🔗 **LinkedIn**: [Josemar Trindade](www.linkedin.com/in/josemar-trindade-452979a9)  
+📧 **Email**: [josemar.s.trindade@gmail.com](mailto:josemar.s.trindade@gmail.com)  
+🔗 **LinkedIn**: [Josemar Trindade](https:www.linkedin.com/in/josemar-trindade-452979a9)  
 🐱 **GitHub**: [JosemarTrindade](https://github.com/JosemarTrindade)
 
 ---
