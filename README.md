@@ -23,6 +23,7 @@
 > **🎓 Projeto Acadêmico & Portfólio**: Este repositório demonstra habilidades em automação de testes web utilizando **Cypress**, desenvolvido durante o curso da **QaZando Masterclass**. Inclui cenários reais de teste para funcionalidades como login, cadastro, checkout e validações de interface.
 
 Este projeto showcases a implementação de testes automatizados end-to-end para aplicações web, utilizando **Cypress** como framework principal e **Faker.js** para geração de dados dinâmicos.
+Este projeto showcases a implementação de testes automatizados end-to-end para aplicações web, utilizando **Cypress** como framework principal, **Faker.js** para geração de dados dinâmicos e **Page Object Model** para organização dos testes. Também inclui comandos customizados para facilitar a manutenção e reutilização de fluxos.
 
 ### 🎯 Objetivos Demonstrados
 
